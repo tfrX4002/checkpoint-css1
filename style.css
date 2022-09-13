@@ -1,0 +1,19 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size:xx-large;
+}
+.title{font-family:"Harlow Solid Italic" }
+.container label{font-size:x-large
+}
+h2{
+    color:rgb(255, 204, 0);
+    text-align: center;
+    font-family:'Lucida Calligraphy';
+    font-weight: bolder;
+}
+article{
+    font-weight: bold;
+    background-color: gold;
+}
+#element{padding-right: 30px;float: left;}
